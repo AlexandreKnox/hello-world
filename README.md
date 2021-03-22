@@ -1,3 +1,3 @@
 # hello-world
-Repository test
+Repository test\n
 Hello this is a test!
